@@ -1,0 +1,15 @@
+name = "Worlds Without Number — SRD"
+
+input = "Worlds Without Number.md"
+theme = "wwn"
+outputDir = "./output"
+
+[output]
+html = true
+pdf = true
+
+[build]
+failOnWarning = false
+
+[serve]
+port = 3000

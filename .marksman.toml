@@ -1,0 +1,10 @@
+# Configuración de Marksman para Obsidian Vault
+# Documentación: https://github.com/artempyanykh/marksman
+
+[core]
+exclude = [".obsidian/", ".git/", ".trash/", "node_modules/", "output/"]
+
+markdown.file_extensions = ["md"]
+
+[completion.wiki]
+style = "file-path-stem"

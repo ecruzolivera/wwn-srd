@@ -1,0 +1,238 @@
+/* WWN SRD theme — A4, two-column, clean reference layout. */
+
+:root {
+  --heading-color: #1a1a1a;
+  --text-color: #1a1a1a;
+  --background: white;
+  --width-margins: 13mm;
+  --table-border: #999999;
+  --code-background: #f0f3f7;
+}
+
+@page {
+  size: A4;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 10.5pt;
+  line-height: 1.45;
+  color: var(--text-color);
+  background: var(--background);
+}
+
+.page {
+  width: 210mm;
+  height: 297mm;
+  padding: var(--width-margins);
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  background: var(--background);
+  column-gap: 5mm;
+}
+
+.page:last-child {
+  page-break-after: auto;
+}
+
+.page.twocol {
+  column-count: 2;
+}
+
+.page.singlecol {
+  column-count: auto;
+}
+
+.page.toc {
+  column-count: 2;
+  column-gap: 7mm;
+  column-fill: auto;
+}
+
+.page:has(h1) {
+  column-count: auto;
+}
+
+.column-break {
+  break-after: column;
+}
+
+.wide {
+  column-span: all;
+}
+
+.running-header {
+  position: absolute;
+  top: 8mm;
+  left: 14mm;
+  right: 14mm;
+  font-size: 9pt;
+  color: var(--text-color);
+  text-align: center;
+}
+
+.page-number {
+  position: absolute;
+  bottom: 9mm;
+  left: 0;
+  right: 9mm;
+  text-align: right;
+  font-size: 10pt;
+  color: var(--text-color);
+}
+
+.page-number::after {
+  content: attr(data-page-number);
+}
+
+.page-number-hidden .page-number {
+  display: none;
+}
+
+.toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc-entry {
+  margin-bottom: 0.25em;
+  margin-left: calc(var(--toc-indent-step, 1.5em) * var(--toc-indent, 0));
+}
+
+.toc-page-num {
+  color: var(--text-color);
+}
+
+.toc-link:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: var(--heading-color);
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 4mm;
+  margin-bottom: 2mm;
+  break-after: avoid;
+}
+
+h1 {
+  font-size: 24pt;
+  border-bottom: 3pt solid #1a1a1a;
+  margin-top: 8mm;
+}
+
+h2 {
+  font-size: 15pt;
+}
+
+h3 {
+  font-size: 12.5pt;
+}
+
+h4 {
+  font-size: 11pt;
+}
+
+h5 {
+  font-size: 10.5pt;
+}
+
+.booktitle {
+  position: absolute;
+  top: 40%;
+  left: var(--width-margins);
+  right: var(--width-margins);
+  transform: translateY(-50%);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10mm;
+}
+
+.booktitle > h1 {
+  font-size: 40pt;
+  margin: 0;
+  text-transform: none;
+}
+
+p,
+ul,
+ol {
+  margin-bottom: 2mm;
+  hyphens: auto;
+}
+
+ul,
+ol {
+  padding-left: 2ch;
+}
+
+a {
+  color: #1a1a1a;
+  text-decoration: underline;
+}
+
+blockquote {
+  text-align: center;
+  padding: 1em 3em;
+  margin: 5mm -5mm;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2mm;
+  margin-bottom: 5mm;
+  hyphens: auto;
+  font-size: 9.5pt;
+}
+
+th {
+  padding: 1pt 3pt;
+  vertical-align: middle;
+  text-align: left;
+  border-bottom: 1pt solid var(--table-border);
+}
+
+td {
+  border-bottom: 1pt solid var(--table-border);
+  padding: 1pt 3pt;
+  vertical-align: middle;
+  text-align: left;
+}
+
+tbody tr:first-child {
+  border-top: 1pt solid var(--table-border);
+}
+
+code {
+  background: var(--code-background);
+  padding: 0.08em 0.3em;
+  border-radius: 3px;
+  font-size: 0.92em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}
