@@ -30,6 +30,24 @@ jobs:
       - name: Build book
         run: markpublisher build
 
+      - name: Inline theme CSS (self-contained HTML)
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+          const path = require('path');
+          const out = 'output';
+          const htmlName = fs.readdirSync(out).find(f => f.endsWith('.html'));
+          if (!htmlName) { console.error('No HTML found in output/'); process.exit(1); }
+          const htmlPath = path.join(out, htmlName);
+          const css = fs.readFileSync(path.join(out, 'assets', 'theme.css'), 'utf8');
+          const html = fs.readFileSync(htmlPath, 'utf8');
+          const style = '<style>' + css + '</style>';
+          const next = html.replace(/<link\b[^>]*href="assets\/theme\.css"[^>]*>/g, style);
+          if (next === html) { console.error('Theme <link> not found; aborting.'); process.exit(1); }
+          fs.writeFileSync(htmlPath, next);
+          console.log('Inlined theme.css into ' + htmlName);
+          EOF
+
       - name: Attach PDF and HTML to release
         if: startsWith(github.ref, 'refs/tags/')
         uses: softprops/action-gh-release@v2
