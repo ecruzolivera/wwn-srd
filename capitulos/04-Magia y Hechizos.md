@@ -384,7 +384,7 @@ Solo los Nigromantes completos y parciales tienen el trasfondo necesario para ap
 
 ### Castigar a los muertos
 
-**Nivel 1.** El nigromante conjura una explosión de fuerza disipadora en un punto a cien pies por nivel del lanzador, afectando a un área de hasta 20 pies de radio. Todos los no muertos hostiles dentro de esa área sufren de inmediato 1d10 de daño por nivel del lanzador. Los no muertos con dados de golpe iguales o menores que el nivel del lanzador deben hacer una tirada de salvación Física o quedar destruidos por completo. El nigromante puede Empeñar Empeño durante el día inmediatamente antes de lanzar este conjuro; si lo hace, su lanzamiento no cuenta contra las ranuras de conjuro disponibles del Nigromante para ese día.
+**Nivel 1.** El nigromante conjura una explosión de fuerza disipadora en un punto a cien pies por nivel del lanzador, afectando a un área de hasta 20 pies de radio. Todos los no muertos hostiles dentro de esa área sufren de inmediato 1d10 de daño por nivel del lanzador. Los no muertos con dados de golpe iguales o menores que el nivel del lanzador deben hacer una tirada de salvación Física o quedar destruidos por completo. El nigromante puede Dedicar Esfuerzo durante el día inmediatamente antes de lanzar este conjuro; si lo hace, su lanzamiento no cuenta contra las ranuras de conjuro disponibles del Nigromante para ese día.
 
 ### Vivacidad terrible
 

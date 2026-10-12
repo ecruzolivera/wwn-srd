@@ -35,7 +35,7 @@
 
 <!-- layout:twocol -->
 
-Los magos suelen poseer el lanzamiento de conjuros y las Artes de una tradición de mago apropiada a un nivel igual a sus dados de golpe, y un Empeño igual a su bono de habilidad más dos.
+Los magos suelen poseer el lanzamiento de conjuros y las Artes de una tradición de mago apropiada a un nivel igual a sus dados de golpe, y un Esfuerzo igual a su bono de habilidad más dos.
 
 ### Animales normales
 

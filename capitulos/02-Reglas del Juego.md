@@ -130,7 +130,7 @@ Las acciones instantáneas son especiales, y la mayoría solo las proporcionan c
 Las acciones enumeradas a continuación son solo algunas de las más comunes en combate.
 
 - **Hacer un ataque cuerpo a cuerpo (Acción principal)**: Ataca a un objetivo a distancia de combate cuerpo a cuerpo con un ataque sin armas o un arma cuerpo a cuerpo. Estas armas usan la habilidad Pelea o Apuñalar, según el tipo de ataque.
-- **Hacer un ataque a distancia (Acción principal)**: Ataca a un objetivo con un arco o un arma arrojadiza. Para estos ataques se usa la habilidad Disparo, aunque Apuñalar o Esfuerzo pueden usarse opcionalmente para armas arrojadizas. Si hay un atacante enemigo a distancia de combate cuerpo a cuerpo, las armas a distancia de una mano y las armas arrojadizas sufren una penalización de -4 para impactar, mientras que los arcos y otras armas a distancia de dos manos no pueden dispararse en absoluto.
+- **Hacer un ataque a distancia (Acción principal)**: Ataca a un objetivo con un arco o un arma arrojadiza. Para estos ataques se usa la habilidad Disparo, aunque Apuñalar o Atletismo pueden usarse opcionalmente para armas arrojadizas. Si hay un atacante enemigo a distancia de combate cuerpo a cuerpo, las armas a distancia de una mano y las armas arrojadizas sufren una penalización de -4 para impactar, mientras que los arcos y otras armas a distancia de dos manos no pueden dispararse en absoluto.
 - **Hacer un ataque rápido (Acción instantánea)**: Como acción instantánea, renuncia a tu acción principal y haz un ataque cuerpo a cuerpo o un ataque a distancia con una penalización de -4 para impactar. Como acción instantánea, puedes hacer un ataque rápido incluso cuando no es tu turno, pero no debes haber realizado aún tu acción principal en esta ronda. Solo los PNJ bien entrenados y disciplinados tienen la concentración suficiente para hacer un ataque rápido.
 - **Hacer un ataque en enjambre (Acción principal)**: Elige a un enemigo dentro del alcance de tu arma y realiza esta acción hasta que un máximo de cuatro aliados hayan hecho un ataque en enjambre sobre ese objetivo en esta ronda. En ese punto, o en cualquier momento anterior, uno de estos asaltantes puede hacer un ataque cuerpo a cuerpo o un ataque a distancia sobre el objetivo con una bonificación de +2 para impactar y +1 al daño por cada otro asaltante, hasta un máximo de +6 para impactar y +3 de daño. Este daño de bonificación no se suma al Choque del ataque y no puede hacer que inflija más que su daño máximo habitual. Sin embargo, cualquier Choque infligido por este ataque siempre se aplica, incluso si la CA del objetivo es demasiado alta, si está usando un escudo o si tiene algún poder que lo haga inmune al Choque; el daño de un ataque en enjambre no es realmente Choque, sino un reflejo de los peligros inevitables de ser acorralado por numerosos enemigos armados.
 - **Cargar (Acción especial)**: Gasta tu acción principal y tu acción de movimiento para moverte hasta el doble de tu ritmo de movimiento normal en línea recta, haciendo un ataque cuerpo a cuerpo o un ataque a distancia arrojadizo al final con una bonificación de +2 para impactar. Debes poder cargar al menos 3 metros para acumular impulso suficiente, y sufres una penalización de -2 a tus Clases de Armadura hasta el final de la ronda.
@@ -224,7 +224,7 @@ Hay ciertas maniobras o actividades especiales que surgen habitualmente en comba
 
 #### 2.4.7.1 Empujar y agarrar
 
-Para empujar a un objetivo, el atacante debe hacer un ataque cuerpo a cuerpo con éxito. Este ataque no hace daño, pero obliga a una prueba de habilidad enfrentada de FUE/Esfuerzo o FUE/Pelea. Si el atacante gana, el objetivo es empujado hacia atrás hasta 3 metros o derribado, a discreción del atacante. Para agarrar, el atacante debe hacer un ataque cuerpo a cuerpo sin armas con éxito teniendo ambas manos libres. Este ataque no hace daño, pero obliga a una prueba de habilidad enfrentada de FUE/Pelea. Si el atacante gana, la víctima queda agarrada. Una víctima agarrada permanece así hasta que realice una acción principal para superar una prueba de habilidad enfrentada de FUE/Pelea contra su asaltante.
+Para empujar a un objetivo, el atacante debe hacer un ataque cuerpo a cuerpo con éxito. Este ataque no hace daño, pero obliga a una prueba de habilidad enfrentada de FUE/Atletismo o FUE/Pelea. Si el atacante gana, el objetivo es empujado hacia atrás hasta 3 metros o derribado, a discreción del atacante. Para agarrar, el atacante debe hacer un ataque cuerpo a cuerpo sin armas con éxito teniendo ambas manos libres. Este ataque no hace daño, pero obliga a una prueba de habilidad enfrentada de FUE/Pelea. Si el atacante gana, la víctima queda agarrada. Una víctima agarrada permanece así hasta que realice una acción principal para superar una prueba de habilidad enfrentada de FUE/Pelea contra su asaltante.
 <!-- pagebreak -->
 
 Mientras está agarrada, ni el asaltante ni el objetivo pueden moverse de su posición, ni pueden luchar con otra cosa que no sean ataques sin armas, incluidos colmillos o garras para las criaturas que los tengan. Al final de cada ronda, una víctima agarrada sufre automáticamente daño como si la hubiera golpeado el ataque sin armas de su asaltante.
@@ -318,11 +318,11 @@ Los aventureros tienen la costumbre de perseguir a otros y de ser perseguidos a 
 
 ### 2.6.1 Persecuciones a pie
 
-El miembro del grupo que huye con el mejor total de DES/Esfuerzo o CON/Esfuerzo tira una prueba de habilidad. Su resultado es el ritmo del grupo que huye, ya que ayuda y anima a los miembros más lentos.
+El miembro del grupo que huye con el mejor total de DES/Atletismo o CON/Atletismo tira una prueba de habilidad. Su resultado es el ritmo del grupo que huye, ya que ayuda y anima a los miembros más lentos.
 
 Los demás miembros del grupo que huye dificultan entonces la persecución de las maneras que consideren útiles. A veces se necesita una prueba de habilidad, mientras que otras veces el DJ simplemente decide que funciona. Cada esfuerzo con éxito añade una bonificación de +1 al ritmo, hasta un máximo de +3. Los esfuerzos fallidos son inútiles o aplican una penalización de -1 si son activamente perjudiciales. Si el grupo que huye está formado por PNJ, corresponde al criterio del DJ decidir si alguno de ellos intenta hacer algo ingenioso para retrasar a los PJ.
 
-El grupo perseguidor hace entonces una única prueba de habilidad de DES/Esfuerzo o CON/Esfuerzo, modificada por la tabla siguiente. Si supera el total del grupo que huye, lo alcanza, y si empata o tira menos, el grupo que huye ha escapado de la persecución inmediata.
+El grupo perseguidor hace entonces una única prueba de habilidad de DES/Atletismo o CON/Atletismo, modificada por la tabla siguiente. Si supera el total del grupo que huye, lo alcanza, y si empata o tira menos, el grupo que huye ha escapado de la persecución inmediata.
 
 <!-- layout:singlecol -->
 
@@ -533,7 +533,7 @@ No a todos los grupos les gusta llevar la cuenta de la carga o lidiar con la log
 
 Algunos peligros se presentan con cierta regularidad para los aventureros. Aquí se detallan algunos de los más comunes.
 
-Caídas: La mayoría de las criaturas sufren 1d6 de daño por cada 10 pies completos que caen, hasta un máximo de 20d6. Las púas u otro terreno peligroso en el fondo añadirán al menos 1d6 al total. Una criatura que salta o se desliza intencionadamente de forma controlada puede hacer una prueba de habilidad de DES o FUE/Esfuerzo a una dificultad de 7 + 1 por cada 10 pies completos; con éxito, la distancia efectiva de caída se reduce a la mitad.
+Caídas: La mayoría de las criaturas sufren 1d6 de daño por cada 10 pies completos que caen, hasta un máximo de 20d6. Las púas u otro terreno peligroso en el fondo añadirán al menos 1d6 al total. Una criatura que salta o se desliza intencionadamente de forma controlada puede hacer una prueba de habilidad de DES o FUE/Atletismo a una dificultad de 7 + 1 por cada 10 pies completos; con éxito, la distancia efectiva de caída se reduce a la mitad.
 <!-- pagebreak -->
 
 Asfixia: Las criaturas pueden luchar o actuar con normalidad sin aire durante una ronda por punto de Constitución, o 10 rondas para la mayoría de los PNJ. Si no se mueven, pueden cuadruplicar este tiempo. Una vez que se quedan sin aire, deben hacer una salvación Física cada ronda o sufrir 1 punto de golpe de daño por cada DG o nivel que tengan.
@@ -591,7 +591,7 @@ La comida se mide en días de comida por persona. La comida necesaria de cada d�
 El agua también se mide en días de agua por persona, y cada unidad cuenta como un objeto de carga. Los climas excepcionalmente cálidos o secos pueden requerir múltiplos de esto para evitar la deshidratación o el sobrecalentamiento.
 <!-- pagebreak -->
 
-El refugio significa ropa adecuada para el clima y algún tipo de tienda o cobertizo para protegerse de los elementos mientras se descansa. Los personajes con Supervivencia-0 pueden montar un cobertizo mínimo de ramas y palos en zonas boscosas, pero en lugares de lluvias torrenciales, nieves feroces u otras condiciones extremas puede resultar más difícil. La falta de refugio puede hacer imposible descansar cómodamente y recuperar Empeño, PG o conjuros. La privación grave puede incluso amenazar la vida de un PJ.
+El refugio significa ropa adecuada para el clima y algún tipo de tienda o cobertizo para protegerse de los elementos mientras se descansa. Los personajes con Supervivencia-0 pueden montar un cobertizo mínimo de ramas y palos en zonas boscosas, pero en lugares de lluvias torrenciales, nieves feroces u otras condiciones extremas puede resultar más difícil. La falta de refugio puede hacer imposible descansar cómodamente y recuperar Esfuerzo, PG o conjuros. La privación grave puede incluso amenazar la vida de un PJ.
 
 El fuego significa combustible suficiente para cocinar comida, secar la ropa mojada y calentar a los PJ después de que hayan dejado de moverse por el día. En la mayoría de los lugares, hasta el PJ menos conocedor de la madera puede buscar suficiente leña seca o ramitas para encender un fuego mínimamente suficiente, pero los viajes a una tierra desprovista de vegetación leñosa pueden significar problemas. Una carga de tortas de estiércol, carbón u otro combustible suficiente para mantener caliente a un grupo durante una noche corriente cuenta como cuatro objetos de carga.
 
@@ -631,7 +631,7 @@ Si los PJ no tienen suficiente comida, agua, calor o refugio, empezarán a pasar
 
 Se gana Tensión del sistema. Si esto pusiera al PJ por encima de su máximo, debe hacer una salvación Física o morir al amanecer si no es ayudado. Con éxito, queda indefenso hasta la muerte o el rescate.
 
-No pueden recuperar Tensión del sistema, ganar sanación nocturna de puntos de golpe, renovar el Empeño empeñado diario ni restaurar los conjuros gastados hasta que hayan tenido un día de comida, agua y sueño caliente adecuados.
+No pueden recuperar Tensión del sistema, ganar sanación nocturna de puntos de golpe, renovar el Esfuerzo dedicado diario ni restaurar los conjuros gastados hasta que hayan tenido un día de comida, agua y sueño caliente adecuados.
 
 | Circunstancia                          | Tens. sist. |
 | -------------------------------------- | ----------- |

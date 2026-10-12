@@ -28,9 +28,9 @@
 
 **CA/DG**: abreviatura de Clase de Armadura y Dados de Golpe, respectivamente.
 
-**Esfuerzo**: Habilidad que refleja la condición física y la capacidad de realizar esfuerzos atléticos (correr, nadar, trepar).
+**Atletismo**: Habilidad que refleja la condición física y la capacidad de realizar esfuerzos atléticos (correr, nadar, trepar).
 
-**Empeño**: Recurso mágico que los lanzadores de conjuros invierten (_Commit_) para activar sus poderes.
+**Esfuerzo**: Recurso mágico que los lanzadores de conjuros dedican (_Commit_) para activar sus poderes.
 
 **Choque**: Daño automático que infligen ciertas armas aunque el ataque falle, si la CA del objetivo es igual o inferior a un valor dado.
 

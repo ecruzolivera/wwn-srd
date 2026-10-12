@@ -65,7 +65,7 @@ Las siguientes habilidades son estándar en la mayoría de las campañas de fant
 
 **Artesanía**: Fabricar o reparar bienes y tecnología apropiados al trasfondo y la sociedad del PJ. La habilidad de Artesanía puede usarse para una amplia gama de actividades artesanales, aunque el DJ tiene derecho a impedir que el PJ construya cosas complejas demasiado alejadas de su trasfondo y experiencia pasados.
 
-**Esfuerzo**: Correr, nadar, trepar, saltar, trabajar durante largos periodos, lanzar objetos o, de otro modo, ejercer tu fuerza física, resistencia y coordinación. Incluso un PJ con atributos físicos pobres podría tener una buena habilidad de Esfuerzo que refleje un entrenamiento atlético y la pericia para sacar el máximo partido de sus talentos disponibles.
+**Atletismo**: Correr, nadar, trepar, saltar, trabajar durante largos periodos, lanzar objetos o, de otro modo, ejercer tu fuerza física, resistencia y coordinación. Incluso un PJ con atributos físicos pobres podría tener una buena habilidad de Atletismo que refleje un entrenamiento atlético y la pericia para sacar el máximo partido de sus talentos disponibles.
 <!-- pagebreak -->
 
 **Sanar**: Tratar heridas, curar enfermedades, neutralizar venenos, diagnosticar problemas de salud psicológica y, en general, atender las heridas del cuerpo y de la mente. La habilidad de Sanar no puede curar directamente los puntos de golpe perdidos, pero es una habilidad vital para estabilizar a los aliados Heridos de muerte o para asegurar una recuperación limpia.
@@ -132,7 +132,7 @@ Los dos trasfondos siguientes son ejemplos de los posibles para un jugador, y ot
 |  2  | +2 Físico             |  2  | Persuasión  |
 |  3  | +2 Físico             |  3  | Artesanía   |
 |  4  | +2 Mental             |  4  | Artesanía   |
-|  5  | Esfuerzo              |  5  | Esfuerzo    |
+|  5  | Atletismo              |  5  | Atletismo    |
 |  6  | Cualquier habilidad   |  6  | Saber       |
 |     |                       |  7  | Percepción  |
 |     |                       |  8  | Comercio    |
@@ -143,9 +143,9 @@ Los dos trasfondos siguientes son ejemplos de los posibles para un jugador, y ot
 | :-: | --------------------- | :-: | ----------------- |
 |  1  | +1 Cualquier atributo |  1  | Cualquier combate |
 |  2  | +2 Físico             |  2  | Trato             |
-|  3  | +2 Físico             |  3  | Esfuerzo          |
+|  3  | +2 Físico             |  3  | Atletismo          |
 |  4  | +2 Mental             |  4  | Liderazgo         |
-|  5  | Esfuerzo              |  5  | Percepción        |
+|  5  | Atletismo              |  5  | Percepción        |
 |  6  | Cualquier habilidad   |  6  | Pelea             |
 |     |                       |  7  | Sigilo            |
 |     |                       |  8  | Supervivencia     |
@@ -170,26 +170,26 @@ Las clases Sanador, Consagrado, Bardo, Noble del pensamiento, Maldito, Sabio, Ma
 
 El Aventurero es una clase especial que permite al PJ tomar dos clases parciales y mezclarlas. Estas pueden ser clases solo parciales, como un Sanador/Consagrado, o pueden ser versiones parciales de las clases Guerrero, Experto o Mago, como un Experto parcial/Noble del pensamiento. También es posible un lanzador de conjuros de doble especialización mezclando, por ejemplo, un Alto mago parcial/Elementalista parcial.
 
-### 1.4.4 Clases y Empeño
+### 1.4.4 Clases y Esfuerzo
 
-Algunas clases tienen capacidades especiales que se alimentan con poder mágico, concentración interior o alguna otra reserva de energía. Esta capacidad se mide en puntos de Empeño, un recurso que el PJ puede empeñar para activar sus capacidades.
+Algunas clases tienen capacidades especiales que se alimentan con poder mágico, concentración interior o alguna otra reserva de energía. Esta capacidad se mide en puntos de Esfuerzo, un recurso que el PJ puede dedicar para activar sus capacidades.
 <!-- pagebreak -->
 
-Cada clase que usa Empeño tiene su propia reserva única: Empeño de Alto mago, Empeño de Consagrado, Empeño de Sanador, y así sucesivamente. Los Aventureros con dos clases parciales que usan Empeño tienen dos reservas que se siguen por separado, una para cada clase. Los puntos de Empeño de una clase no pueden usarse para alimentar poderes de otra.
+Cada clase que usa Esfuerzo tiene su propia reserva única: Esfuerzo de Alto mago, Esfuerzo de Consagrado, Esfuerzo de Sanador, y así sucesivamente. Los Aventureros con dos clases parciales que usan Esfuerzo tienen dos reservas que se siguen por separado, una para cada clase. Los puntos de Esfuerzo de una clase no pueden usarse para alimentar poderes de otra.
 
-El Empeño máximo de una clase completa es igual a 1 más un nivel de habilidad relevante y un modificador de atributo indicado por la clase. Una clase parcial usa la misma fórmula, pero con 1 punto menos de Empeño, hasta un mínimo de 1.
+El Esfuerzo máximo de una clase completa es igual a 1 más un nivel de habilidad relevante y un modificador de atributo indicado por la clase. Una clase parcial usa la misma fórmula, pero con 1 punto menos de Esfuerzo, hasta un mínimo de 1.
 
-#### 1.4.4.1 Empeñar Empeño
+#### 1.4.4.1 Dedicar Esfuerzo
 
-La mayoría de los poderes de clase requieren que se empeñe Empeño. Empeñar Empeño se hace como parte de la activación de un poder, y retiene el Empeño durante un tiempo variable según la capacidad utilizada.
+La mayoría de los poderes de clase requieren que se dedique Esfuerzo. Dedicar Esfuerzo se hace como parte de la activación de un poder, y retiene el Esfuerzo durante un tiempo variable según la capacidad utilizada.
 
-Algunos poderes empeñan Empeño durante la duración. Esto significa que el Empeño permanece empeñado mientras el poder esté activo. El PJ puede recuperar el Empeño empeñado en cualquier momento como acción instantánea, desactivando el poder.
+Algunos poderes dedican Esfuerzo durante la duración. Esto significa que el Esfuerzo permanece dedicado mientras el poder esté activo. El PJ puede recuperar el Esfuerzo dedicado en cualquier momento como acción instantánea, desactivando el poder.
 
-Algunos poderes empeñan Empeño durante la escena. El Empeño permanece empeñado hasta el final de la escena, tras lo cual regresa al PJ. No puede recuperarse antes, aunque la capacidad que alimenta solo sirva para un único ataque o acción. Una escena suele equivaler a un único combate, acontecimiento o turno de mazmorra, y casi nunca dura más de quince minutos. Se proporcionan más detalles en la sección de tiempo de las reglas del juego.
+Algunos poderes dedican Esfuerzo durante la escena. El Esfuerzo permanece dedicado hasta el final de la escena, tras lo cual regresa al PJ. No puede recuperarse antes, aunque la capacidad que alimenta solo sirva para un único ataque o acción. Una escena suele equivaler a un único combate, acontecimiento o turno de mazmorra, y casi nunca dura más de quince minutos. Se proporcionan más detalles en la sección de tiempo de las reglas del juego.
 
-Algunos poderes empeñan Empeño durante el día. Una vez empeñado, este Empeño solo puede recuperarse después de una noche de descanso confortable. Si el PJ tiene hambre, frío, está enfermo o duerme sin los beneficios de un lecho o de otras comodidades básicas, este Empeño no puede recuperarse.
+Algunos poderes dedican Esfuerzo durante el día. Una vez dedicado, este Esfuerzo solo puede recuperarse después de una noche de descanso confortable. Si el PJ tiene hambre, frío, está enfermo o duerme sin los beneficios de un lecho o de otras comodidades básicas, este Esfuerzo no puede recuperarse.
 
-Activar un poder solo requiere empeñar un único punto de Empeño, salvo que el propio poder indique lo contrario.
+Activar un poder solo requiere dedicar un único punto de Esfuerzo, salvo que el propio poder indique lo contrario.
 
 ## 1.5 La lista de clases
 

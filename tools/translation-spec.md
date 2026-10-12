@@ -52,7 +52,7 @@ Este archivo es una referencia de trabajo (no forma parte del libro).
 | Connect    | Trato          |
 | Convince   | Persuasión     |
 | Craft      | Artesanía      |
-| Exert      | Esfuerzo       |
+| Exert      | Atletismo       |
 | Heal       | Sanar          |
 | Know       | Saber          |
 | Lead       | Liderazgo      |
@@ -106,8 +106,8 @@ Este archivo es una referencia de trabajo (no forma parte del libro).
 | Attack Bonus             | Bono de ataque             |
 | Saving Throw             | Tirada de salvación        |
 | System Strain            | Tensión del sistema        |
-| Effort                   | Empeño                     |
-| Commit Effort            | Empeñar (invertir) Empeño  |
+| Effort                   | Esfuerzo                     |
+| Commit Effort            | Dedicar Esfuerzo             |
 | Fray die                 | Dado de desgaste           |
 | Focus / Foci             | Foco / Focos               |
 | Art / Arts               | Arte / Artes               |

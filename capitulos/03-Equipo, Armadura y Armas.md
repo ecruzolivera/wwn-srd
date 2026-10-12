@@ -170,7 +170,7 @@ Un héroe que no lleva armadura alguna tiene una Clase de Armadura base de 10, m
 
 ### 3.3.1 Armadura ligera, media y pesada
 
-La armadura ligera puede ser decididamente pesada, pero es lo bastante holgada y flexible como para ofrecer una molestia mínima a las acciones del portador. Algunas variedades son también lo bastante discretas como para llevarse con decoro en la sociedad común. La armadura media es notablemente más ruidosa y visible; no puede llevarse discretamente y aplica su carga como penalización a cualquier tirada de Sigilo físico que haga el portador. La armadura pesada es la panoplia más gruesa y resistente disponible en el mercado, y su volumen y ruido hacen que su carga se aplique como penalización a las pruebas de Sigilo o Esfuerzo que haga el portador.
+La armadura ligera puede ser decididamente pesada, pero es lo bastante holgada y flexible como para ofrecer una molestia mínima a las acciones del portador. Algunas variedades son también lo bastante discretas como para llevarse con decoro en la sociedad común. La armadura media es notablemente más ruidosa y visible; no puede llevarse discretamente y aplica su carga como penalización a cualquier tirada de Sigilo físico que haga el portador. La armadura pesada es la panoplia más gruesa y resistente disponible en el mercado, y su volumen y ruido hacen que su carga se aplique como penalización a las pruebas de Sigilo o Atletismo que haga el portador.
 
 ### 3.3.2 Escudos
 
